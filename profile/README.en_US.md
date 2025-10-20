@@ -16,7 +16,7 @@
 
 ## Introduction
 
-The Open Source Association affiliated with Southwest Petroleum University (SWPU) is a student-initiated open-source community at SWPU. We are dedicated to promoting the spirit of the free software movement, advocating open-source software, developing open-source projects, and fostering the growth of the open-source community. Our main activities include hosting open-source salons, conferences, training sessions, competitions, promoting open-source software, participating in open-source project development, sharing open-source experiences, and organizing open-source events.
+The Free software Association affiliated with Southwest Petroleum University (SWPU) is a student-initiated open-source community at SWPU. We are dedicated to promoting the spirit of the free software movement, advocating open-source software, developing open-source projects, and fostering the growth of the open-source community. Our main activities include hosting open-source salons, conferences, training sessions, competitions, promoting open-source software, participating in open-source project development, sharing open-source experiences, and organizing open-source events.
 
 ## Organizational Structure
 
